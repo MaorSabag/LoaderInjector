@@ -11,3 +11,6 @@
 
 ### POC:
 ![poc](https://github.com/MaorSabag/LoaderInjector/blob/main/meter_werfault.png)
+
+### AntiScan 01-11-2022:
+![antiscan](https://github.com/MaorSabag/LoaderInjector/blob/main/antiscan_werfault.png)
